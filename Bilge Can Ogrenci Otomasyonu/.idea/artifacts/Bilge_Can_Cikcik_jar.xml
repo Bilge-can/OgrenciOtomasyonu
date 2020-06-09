@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bilge Can Cikcik:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bilge_Can_Cikcik_jar</output-path>
+    <root id="archive" name="Bilge Can Cikcik.jar">
+      <element id="module-output" name="Bilge Can Cikcik" />
+    </root>
+  </artifact>
+</component>
